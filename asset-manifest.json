@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.07c156c8.css",
-    "main.js": "/Portfolio/static/js/main.bbfd4c88.js",
+    "main.js": "/Portfolio/static/js/main.8b216628.js",
     "static/media/MemeGenerator.png": "/Portfolio/static/media/MemeGenerator.d84a15384ab8356d781d.png",
     "static/media/Hinal_Profile_Pic.png": "/Portfolio/static/media/Hinal_Profile_Pic.0384e9e0c561c9bd4662.png",
     "static/media/Tenzies.png": "/Portfolio/static/media/Tenzies.96ed25690d93af5f8511.png",
     "static/media/HinalBlue.jpeg": "/Portfolio/static/media/HinalBlue.6fd22f420f42dc4fd987.jpeg",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.fd5488a77587109acd20.pdf",
+    "static/media/Hinal_Resume.pdf": "/Portfolio/static/media/Hinal_Resume.e54b034eb77ceb7a2b85.pdf",
     "static/media/Profilepic.jpeg": "/Portfolio/static/media/Profilepic.03be0faa99a15b820878.jpeg",
     "static/media/Quote.png": "/Portfolio/static/media/Quote.b036dbd6bd021edebbd5.png",
     "static/media/Joke.png": "/Portfolio/static/media/Joke.0a594edb9b36079c1b6f.png",
     "static/media/Fact.png": "/Portfolio/static/media/Fact.dcd63a8b397ad644c2dd.png",
     "index.html": "/Portfolio/index.html",
     "main.07c156c8.css.map": "/Portfolio/static/css/main.07c156c8.css.map",
-    "main.bbfd4c88.js.map": "/Portfolio/static/js/main.bbfd4c88.js.map"
+    "main.8b216628.js.map": "/Portfolio/static/js/main.8b216628.js.map"
   },
   "entrypoints": [
     "static/css/main.07c156c8.css",
-    "static/js/main.bbfd4c88.js"
+    "static/js/main.8b216628.js"
   ]
 }

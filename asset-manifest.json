@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a424e64b.css",
-    "main.js": "/Portfolio/static/js/main.6c8b6be9.js",
+    "main.css": "/Portfolio/static/css/main.07c156c8.css",
+    "main.js": "/Portfolio/static/js/main.f34b1498.js",
     "static/media/MemeGenerator.png": "/Portfolio/static/media/MemeGenerator.d84a15384ab8356d781d.png",
     "static/media/Hinal_Profile_Pic.png": "/Portfolio/static/media/Hinal_Profile_Pic.0384e9e0c561c9bd4662.png",
     "static/media/Tenzies.png": "/Portfolio/static/media/Tenzies.96ed25690d93af5f8511.png",
@@ -12,11 +12,11 @@
     "static/media/Joke.png": "/Portfolio/static/media/Joke.0a594edb9b36079c1b6f.png",
     "static/media/Fact.png": "/Portfolio/static/media/Fact.dcd63a8b397ad644c2dd.png",
     "index.html": "/Portfolio/index.html",
-    "main.a424e64b.css.map": "/Portfolio/static/css/main.a424e64b.css.map",
-    "main.6c8b6be9.js.map": "/Portfolio/static/js/main.6c8b6be9.js.map"
+    "main.07c156c8.css.map": "/Portfolio/static/css/main.07c156c8.css.map",
+    "main.f34b1498.js.map": "/Portfolio/static/js/main.f34b1498.js.map"
   },
   "entrypoints": [
-    "static/css/main.a424e64b.css",
-    "static/js/main.6c8b6be9.js"
+    "static/css/main.07c156c8.css",
+    "static/js/main.f34b1498.js"
   ]
 }

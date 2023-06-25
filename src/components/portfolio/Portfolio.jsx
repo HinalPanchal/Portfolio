@@ -8,15 +8,15 @@ const data = [
     id: 1,
     image: Tenzies,
     title: "Tenzies Game",
-    github: "https://github.com",
-    demo: "https://localhost:3456",
+    github: "https://github.com/HinalPanchal/Tenzies",
+    demo: "https://hinalpanchal.github.io/Tenzies/",
   },
   {
     id: 2,
     image: MemeGenerator,
     title: "Meme Generator",
-    github: "https://github.com",
-    demo: "https://localhost:3456",
+    github: "https://github.com/HinalPanchal/MemeGenerator",
+    demo: "https://hinalpanchal.github.io/MemeGenerator/",
   },
 ];
 

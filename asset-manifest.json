@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.07c156c8.css",
-    "main.js": "/Portfolio/static/js/main.f34b1498.js",
+    "main.js": "/Portfolio/static/js/main.bbfd4c88.js",
     "static/media/MemeGenerator.png": "/Portfolio/static/media/MemeGenerator.d84a15384ab8356d781d.png",
     "static/media/Hinal_Profile_Pic.png": "/Portfolio/static/media/Hinal_Profile_Pic.0384e9e0c561c9bd4662.png",
     "static/media/Tenzies.png": "/Portfolio/static/media/Tenzies.96ed25690d93af5f8511.png",
@@ -13,10 +13,10 @@
     "static/media/Fact.png": "/Portfolio/static/media/Fact.dcd63a8b397ad644c2dd.png",
     "index.html": "/Portfolio/index.html",
     "main.07c156c8.css.map": "/Portfolio/static/css/main.07c156c8.css.map",
-    "main.f34b1498.js.map": "/Portfolio/static/js/main.f34b1498.js.map"
+    "main.bbfd4c88.js.map": "/Portfolio/static/js/main.bbfd4c88.js.map"
   },
   "entrypoints": [
     "static/css/main.07c156c8.css",
-    "static/js/main.f34b1498.js"
+    "static/js/main.bbfd4c88.js"
   ]
 }
